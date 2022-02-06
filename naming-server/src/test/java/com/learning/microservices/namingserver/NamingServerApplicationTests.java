@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.namingserver;
+package com.learning.microservices.namingserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
