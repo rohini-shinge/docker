@@ -67,7 +67,7 @@ Note: If 192.168.99.100 does not work, you can find the IP by using the command 
 =>Running Version of Image : Container
 
 **-- General Commands --**
-
+```
 1. docker run 'Repository:Tag'
 2. docker run -p {host-port}:{container-port} -d 'Repository:Tag' => Running container in detached mode (-d)
 3. docker logs -f 'id' => Tailing Logs
@@ -89,4 +89,5 @@ Note: If 192.168.99.100 does not work, you can find the IP by using the command 
 18. docker top 'Id'
 19. docker run -m 512m --cpu quota 50000
 20. docker system df
+```
 ---
