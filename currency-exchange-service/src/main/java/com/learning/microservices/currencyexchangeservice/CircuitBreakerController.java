@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice;
+package com.learning.microservices.currencyexchangeservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
