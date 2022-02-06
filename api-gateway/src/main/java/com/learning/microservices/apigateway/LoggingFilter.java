@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.apigateway;
+package com.learning.microservices.apigateway;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

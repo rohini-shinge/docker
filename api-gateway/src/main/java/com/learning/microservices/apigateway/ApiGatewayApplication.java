@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.apigateway;
+package com.learning.microservices.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
