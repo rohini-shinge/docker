@@ -1,7 +1,6 @@
 **Docker**
 
 ---
-# Docker
 
 ## Images
 
